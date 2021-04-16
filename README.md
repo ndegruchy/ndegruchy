@@ -6,6 +6,3 @@ My name is [Nathan DeGruchy](https://degruchy.org/).
 >
 > ~ Me
 
-You can generally find my repositories on [my own gitea instance][1]. Stuff here tends to be just for communicating with projects I like.
-
-[1]: https://git.degruchy.org/
